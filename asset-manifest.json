@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.040b92e3.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.4c70871b.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.4c70871b.chunk.js.map",
+    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
+    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
+    "static/js/2.5704f5d7.chunk.js": "/react-gh-pages/static/js/2.5704f5d7.chunk.js",
+    "static/js/2.5704f5d7.chunk.js.map": "/react-gh-pages/static/js/2.5704f5d7.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.d5c846cd05052b021d2d81562de10be9.js": "/react-gh-pages/precache-manifest.d5c846cd05052b021d2d81562de10be9.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.040b92e3.chunk.css.map": "/react-gh-pages/static/css/main.040b92e3.chunk.css.map",
+    "static/media/font-awesome.min.css": "/react-gh-pages/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/layout.css": "/react-gh-pages/static/media/searchIcon.d7e60f9d.woff2"
+  }
+}
