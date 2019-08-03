@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myReact/static/css/main.e55daf20.chunk.css",
+    "main.css": "/myReact/static/css/main.5ccf34f1.chunk.css",
     "main.js": "/myReact/static/js/main.0ce4a80e.chunk.js",
     "main.js.map": "/myReact/static/js/main.0ce4a80e.chunk.js.map",
     "runtime~main.js": "/myReact/static/js/runtime~main.658c2d85.js",
@@ -8,9 +8,9 @@
     "static/js/2.639391a3.chunk.js": "/myReact/static/js/2.639391a3.chunk.js",
     "static/js/2.639391a3.chunk.js.map": "/myReact/static/js/2.639391a3.chunk.js.map",
     "index.html": "/myReact/index.html",
-    "precache-manifest.306fc809bea2711517a6b438a07e987b.js": "/myReact/precache-manifest.306fc809bea2711517a6b438a07e987b.js",
+    "precache-manifest.f151d425f5960403abb4ca470b553769.js": "/myReact/precache-manifest.f151d425f5960403abb4ca470b553769.js",
     "service-worker.js": "/myReact/service-worker.js",
-    "static/css/main.e55daf20.chunk.css.map": "/myReact/static/css/main.e55daf20.chunk.css.map",
+    "static/css/main.5ccf34f1.chunk.css.map": "/myReact/static/css/main.5ccf34f1.chunk.css.map",
     "static/media/layout.css": "/myReact/static/media/searchIcon.d7e60f9d.woff2",
     "static/media/font-awesome.min.css": "/myReact/static/media/fontawesome-webfont.fee66e71.woff"
   }
