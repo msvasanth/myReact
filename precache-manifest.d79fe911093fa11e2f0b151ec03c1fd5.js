@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "228d26a4621a77e6ac98c8034875f1bf",
+    "revision": "a0cde3b454f96c1464c962b1ba3d027e",
     "url": "/myReact/index.html"
   },
   {
-    "revision": "23ad221863592821eeb1",
-    "url": "/myReact/static/css/main.62bfc204.chunk.css"
+    "revision": "7d05388646010fbf4d0b",
+    "url": "/myReact/static/css/main.6b41b583.chunk.css"
   },
   {
-    "revision": "e4f729cfc538f7a2cdc1",
-    "url": "/myReact/static/js/2.1d1717c5.chunk.js"
+    "revision": "c8ab72e6b2cbf3df179e",
+    "url": "/myReact/static/js/2.99f4a65b.chunk.js"
   },
   {
-    "revision": "23ad221863592821eeb1",
-    "url": "/myReact/static/js/main.aac4b450.chunk.js"
+    "revision": "7d05388646010fbf4d0b",
+    "url": "/myReact/static/js/main.227098c0.chunk.js"
   },
   {
     "revision": "57eee2ab60fac00578ba",
     "url": "/myReact/static/js/runtime~main.658c2d85.js"
+  },
+  {
+    "revision": "815e8edc9865c970476a58282f3a6101",
+    "url": "/myReact/static/media/cd-icon-arrow.815e8edc.svg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -38,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/myReact/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "6b7a27061ae71dc7f6f6ee32cb7fbb13",
+    "url": "/myReact/static/media/loader.6b7a2706.svg"
   },
   {
     "revision": "d7e60f9d1433a45ed71817f6d23abeca",
