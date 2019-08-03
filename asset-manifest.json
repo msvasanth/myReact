@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myReact/static/css/main.6b41b583.chunk.css",
-    "main.js": "/myReact/static/js/main.5eed420d.chunk.js",
-    "main.js.map": "/myReact/static/js/main.5eed420d.chunk.js.map",
+    "main.css": "/myReact/static/css/main.cc03b556.chunk.css",
+    "main.js": "/myReact/static/js/main.14cdeadb.chunk.js",
+    "main.js.map": "/myReact/static/js/main.14cdeadb.chunk.js.map",
     "runtime~main.js": "/myReact/static/js/runtime~main.658c2d85.js",
     "runtime~main.js.map": "/myReact/static/js/runtime~main.658c2d85.js.map",
     "static/js/2.99f4a65b.chunk.js": "/myReact/static/js/2.99f4a65b.chunk.js",
     "static/js/2.99f4a65b.chunk.js.map": "/myReact/static/js/2.99f4a65b.chunk.js.map",
     "index.html": "/myReact/index.html",
-    "precache-manifest.40f24a0ece747479865f5b6a8a58179f.js": "/myReact/precache-manifest.40f24a0ece747479865f5b6a8a58179f.js",
+    "precache-manifest.b0736f3ee7b045f5717acb68968b08f3.js": "/myReact/precache-manifest.b0736f3ee7b045f5717acb68968b08f3.js",
     "service-worker.js": "/myReact/service-worker.js",
-    "static/css/main.6b41b583.chunk.css.map": "/myReact/static/css/main.6b41b583.chunk.css.map",
+    "static/css/main.cc03b556.chunk.css.map": "/myReact/static/css/main.cc03b556.chunk.css.map",
     "static/media/layout.css": "/myReact/static/media/searchIcon.d7e60f9d.woff2",
     "static/media/font-awesome.min.css": "/myReact/static/media/fontawesome-webfont.fee66e71.woff"
   }
